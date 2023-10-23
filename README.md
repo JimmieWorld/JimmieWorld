@@ -4,7 +4,7 @@
 
 [![codewars](https://www.codewars.com/users/HunterNoob/badges/small)](https://www.codewars.com/users/HunterNoob)
 
-### LeetCode Stats
+[//]:### LeetCode Stats
 [//]:<a href="https://github.com/JamessWorld/leetcode-stats">
 [//]:  <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=JamessWorld&theme=dark" width="400"/>
 [//]:</a>
