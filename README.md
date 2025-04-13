@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Andrei</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Andrei</a>
 <h3 align="center">24 y. o. programmer, DE, DS, DA!</h3>
 
 [![codewars](https://www.codewars.com/users/HunterNoob/badges/small)](https://www.codewars.com/users/HunterNoob)
